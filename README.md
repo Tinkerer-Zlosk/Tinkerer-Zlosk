@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Don't know how to use git, but I found a [tutorial](https://www.w3schools.com/git/)
+- Don't know how to use git, but I found a [tutorial](https://www.w3schools.com/git/).
 - Don't know how to use GitHub.
 - Unfamiliar with Markdown, but I found a [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
 - Unfamiliar with C#.
