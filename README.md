@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Tinkerer-Zlosk/Tinkerer-Zlosk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 2025-11-19
 - Don't know how to use git, but I found a [tutorial](https://www.w3schools.com/git/).
 - Don't know how to use GitHub.
 - Unfamiliar with Markdown, but I found a [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
