@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Don't know how to use git.
+- Don't know how to use GitHub.
+- Unfamiliar with Markdown, but I've got a [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
+- Unfamiliar with C#.
+- Unfamiliar with Entity Component Systems.
+
+I'm attempting to learn everything through a mix of textbooks and online tutorials, with a bit of help from ChatGPT. This is going to be a mess.
+
+
