@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 2025-11-19
-- Don't know how to use git, but I found a [tutorial](https://www.w3schools.com/git/).
-- Don't know how to use GitHub.
+- Don't know how to use git, but I found a [tutorial](https://www.w3schools.com/git/). Tutorial completed 2025-11-20. Knowledge level: Newb.
+- Don't know how to use GitHub, but I found a [tutorial](https://www.w3schools.com/git/git_remote_getstarted.asp).
 - Unfamiliar with Markdown, but I found a [cheatsheet](https://www.markdownguide.org/cheat-sheet/).
 - Unfamiliar with C#.
 - Unfamiliar with Entity Component Systems.
